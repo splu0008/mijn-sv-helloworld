@@ -9,3 +9,4 @@ Homestead.yaml
 bower_components/
 .sass-cache/
 npm-debug.log
+/.travis/deploy-key.pem
